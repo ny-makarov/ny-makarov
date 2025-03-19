@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Estudante apaixonada pela Grécia Antiga, história e geografia.  <br>💻 Programadora entusiasta, focada em desenvolvimento para **FiveM** e explorando **.NET 8** e **Vue.js**.  <br>🕰️ Amante de tudo que é antigo, especialmente o idioma **Grego Antigo**, que estou aprendendo.</p>
+<p align="left">🎓 Estudante apaixonada pela Grécia Antiga, história e geografia.  <br>💻 Programadora entusiasta, focada em desenvolvimento para **FiveM** e explorando .NET 8 e Vue.js.  <br>🕰️ Amante de tudo que é antigo, especialmente o idioma Grego Antigo, que estou aprendendo.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">⚡ FiveM e desenvolvimento de scripts para servidores.  <br>📌 Front-end para FiveM com **TypeScript + Tailwind**.  <br>🌍 História, geografia e culturas antigas.</p>
+<p align="left">⚡ FiveM e desenvolvimento de scripts para servidores.  <br>📌 Front-end para FiveM com TypeScript + Tailwind.  <br>🌍 História, geografia e culturas antigas.</p>
 
 ###
 
