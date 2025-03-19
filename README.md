@@ -1,4 +1,4 @@
-<h2 align="left">Hi, Sou Ny Makarov Programador "Junior"</h2>
+<h2 align="left">Hail, Sou NyX Makarov Programador FiveM/SA-MP/MTA-SA</h2>
 
 ###
 
