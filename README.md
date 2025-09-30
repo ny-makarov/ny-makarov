@@ -19,25 +19,47 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="60" alt="electron logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unrealengine logo"  />
 </div>
 
 ###
