@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" src="https://i.ibb.co/sJFLB0T9/Kuru-Kuru-Kururin-kobo-kanaeru-Hololive.gif" width="120" alt="hololive gif" />
+<img align="right" src="link" width="120" alt="hololive gif" />
 
 - 🎓 Software Engineering and Game Design student  
 - 🎮 Game lover and curious about how they work inside  
