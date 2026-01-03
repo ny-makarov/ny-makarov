@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">✌️Hey Im Paik Makarov</h1>
+<h1 align="center">✌️Hey Im Imagine Cats</h1>
 
 ###
 
