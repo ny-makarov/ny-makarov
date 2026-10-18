@@ -30,7 +30,7 @@
       <p><code>LEARNING IN PUBLIC</code> &nbsp; <code>BUILDING WITH INTENT</code></p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="https://cdn.deltacorp.dev.br/logos/a076292b-4688-4338-904c-2a4cf860faca.png" width="100%" alt="Yara, the Imagine Cats mascot" />
+      <img src="https://api.yapresources.dev/api/storage/file?path=upload%3A%2F%2Fartworks%2FLogin_BG-6f94e10a7a254a419d7bde4166a20620.png" width="100%" alt="Yara, the Imagine Cats mascot" />
       <br />
     </td>
   </tr>
